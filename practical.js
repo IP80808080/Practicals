@@ -44,7 +44,7 @@ const SSS = {
 const DLT = {
   '1': {
     title: '1. AWS Credentials Sample',
-    command: `echo "userId: AKIAIOSFODNN7EXAMPLE\nusername1: alice\npassword1: alice123\nusername2: bob\npassword2: bob456"`
+    command: `echo "userId: 048283574313\nusername1: admin-user-2\npassword1: Ask Kamlesh\nusername2: admin-user-3\npassword2: Ask Kamlesh"`
   },
   '2': {
     title: '2. SHA-256 Hash, Brute Force Match',
